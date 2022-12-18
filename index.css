@@ -33,6 +33,19 @@ h2 {
 	background-color: var(--burnt-sienna);
 }
 
+#count-el {
+	font-size: 50px;
+	margin-top: 0;
+	margin-left: 45%;
+	margin-bottom: 20px;
+	color: white;
+	width: 10%;
+	border-radius: 3px;
+	border-style: solid;
+	border-color: var(--persian-green);
+	background-color: var(--burnt-sienna);
+}
+
 button {
 	border: none;
 	padding-top: 10px;
